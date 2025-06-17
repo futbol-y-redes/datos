@@ -10,11 +10,11 @@ Actualmente, el repositorio está dividido en las siguientes secciones:
 
 Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas del mundo del fútbol.
 
-- [**Data World**](/Fútbol/Data%20World/)  
-  Conjuntos de datos extraídos de la plataforma [data.world](https://data.world), incluyendo estadísticas de ligas y torneos.
-
 - [**Soccer Match Event Dataset**](/Fútbol/Soccer%20match%20event%20dataset/)  
   Datos detallados sobre eventos en partidos de fútbol (pases, tiros, goles, etc.), ideales para análisis de secuencias o tácticas.
+
+- [**Data World**](/Fútbol/Data%20World/)  
+  Conjuntos de datos extraídos de la plataforma [data.world](https://data.world), incluyendo estadísticas de ligas y torneos.
 
 - [**Otros**](/Fútbol/)  
   Se podrá encontrar el link a todos los datos que encontremos que no pueden ser subidos al repositorio dentro de la carpeta.

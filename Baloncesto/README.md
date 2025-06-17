@@ -6,7 +6,7 @@ Otras fuentes son:
 
 - [Basketball reference](https://www.basketball-reference.com/). Requiere web-scraping, se puede usar el wrapper de Python [basketball-reference-scraper](https://pypi.org/project/basketball-reference-scraper/).
 
-- [College Basketball Reference](https://www.sports-reference.com/cbb/). De nuev
+- [College Basketball Reference](https://www.sports-reference.com/cbb/). Requiere web-scraping, se puede usar el wrapper de Python [basketball-reference-scraper](https://pypi.org/project/basketball-reference-scraper/).
 
 - [Kaggle](https://www.kaggle.com/). Hay muchos datasets disponibles, generalmente comentados y con ejemplos de uso. Algunos a destacar son:
     - [NBA database](https://www.kaggle.com/datasets/wyattowalsh/basketball). Actualizado diariamente, con 30 equipos, más de 4800 jugadores, más de 65.000 partidos (desde 1946-47), los box scores para más del 95% de partidos y datos jugada a jugada.
