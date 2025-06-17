@@ -13,10 +13,10 @@ Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas d
 - [**Data World**](/Fútbol/Data%20World/)  
   Conjuntos de datos extraídos de la plataforma [data.world](https://data.world), incluyendo estadísticas de ligas y torneos.
 
-- [**Soccer Match Event Dataset**](/Fútbol/Soccer%20match%20event%20dataset/)
+- [**Soccer Match Event Dataset**](/Fútbol/Soccer%20match%20event%20dataset/)  
   Datos detallados sobre eventos en partidos de fútbol (pases, tiros, goles, etc.), ideales para análisis de secuencias o tácticas.
 
-- [**Otros**](/Fútbol/)
+- [**Otros**](/Fútbol/)  
   Se podrá encontrar el link a todos los datos que encontremos que no pueden ser subidos al repositorio dentro de la carpeta.
 
 ### [🏀 Baloncesto](/Baloncesto/)
@@ -25,7 +25,7 @@ Datos enfocados en la NBA y otros aspectos del baloncesto profesional.
 
 - [**fivethirtyeight**](/Baloncesto/fivethirtyeight/)  
   Conjuntos de datos publicados por [FiveThirtyEight](https://fivethirtyeight.com), con métricas avanzadas, ratings y predicciones.
-- [**Otros**](/Baloncesto/)
+- [**Otros**](/Baloncesto/)  
   Se podrá encontrar el link a todos los datos que encontremos que no pueden ser subidos al repositorio dentro de la carpeta.
 
 ### [🏈 Fútbol Americano](/Fútbol%20americano/)
