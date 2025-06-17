@@ -1,4 +1,4 @@
-# 📊 Repositorio de Datos para Análisis Deportivo
+# 📊 Repositorio de datos para análisis deportivo
 
 Este repositorio es una recopilación organizada de conjuntos de datos útiles para el análisis deportivo. La idea es centralizar y facilitar el acceso a distintas fuentes de datos que puedan ser utilizados en proyectos de ciencia de datos, machine learning o visualización relacionados con el deporte.
 
