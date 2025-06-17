@@ -57,4 +57,5 @@ Si deseas contribuir:
 ## 📜 Licencia
 
 Este repositorio está licenciado bajo la licencia CC-BY-4.0. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
 ⚠️ Nota sobre licencias: Este repositorio incluye datos provenientes de diversas fuentes con licencias distintas. Revisa la licencia específica incluida en cada subcarpeta antes de utilizar los datos.
