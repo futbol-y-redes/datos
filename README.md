@@ -6,33 +6,33 @@ Este repositorio es una recopilación organizada de conjuntos de datos útiles p
 
 Actualmente, el repositorio está dividido en las siguientes secciones:
 
-### ⚽ Fútbol
+### [⚽ Fútbol](/Fútbol/)
 
 Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas del mundo del fútbol.
 
-- **Data World**  
+- [**Data World**](/Fútbol/Data%20World/)  
   Conjuntos de datos extraídos de la plataforma [data.world](https://data.world), incluyendo estadísticas de ligas y torneos.
 
-- **Soccer Match Event Dataset**  
+- [**Soccer Match Event Dataset**](/Fútbol/Soccer%20match%20event%20dataset/)
   Datos detallados sobre eventos en partidos de fútbol (pases, tiros, goles, etc.), ideales para análisis de secuencias o tácticas.
 
-- **Otros**
+- [**Otros**](/Fútbol/)
   Se podrá encontrar el link a todos los datos que encontremos que no pueden ser subidos al repositorio dentro de la carpeta.
 
-### 🏀 Baloncesto
+### [🏀 Baloncesto](/Baloncesto/)
 
 Datos enfocados en la NBA y otros aspectos del baloncesto profesional.
 
-- **fivethirtyeight**  
+- [**fivethirtyeight**](/Baloncesto/fivethirtyeight/)  
   Conjuntos de datos publicados por [FiveThirtyEight](https://fivethirtyeight.com), con métricas avanzadas, ratings y predicciones.
-- **Otros**
+- [**Otros**](/Baloncesto/)
   Se podrá encontrar el link a todos los datos que encontremos que no pueden ser subidos al repositorio dentro de la carpeta.
 
-### 🏈 Fútbol Americano
+### [🏈 Fútbol Americano](/Fútbol%20americano/)
 
 🕐 *Sección en desarrollo.* Próximamente se agregarán conjuntos de datos relacionados con la NFL, NCAA y otras ligas.
 
-### 🎾 Tenis
+### [🎾 Tenis](/Tenis/)
 
 🕐 *Sección en desarrollo.* Se incluirán datos sobre partidos, rankings y estadísticas de jugadores ATP y WTA.
 
@@ -56,4 +56,5 @@ Si deseas contribuir:
 
 ## 📜 Licencia
 
-Este repositorio está licenciado bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+Este repositorio está licenciado bajo la licencia CC-BY-4.0. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+⚠️ Nota sobre licencias: Este repositorio incluye datos provenientes de diversas fuentes con licencias distintas. Revisa la licencia específica incluida en cada subcarpeta antes de utilizar los datos.
