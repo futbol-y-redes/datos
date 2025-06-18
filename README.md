@@ -10,27 +10,82 @@ Actualmente, el repositorio está dividido en las siguientes secciones:
 
 Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas del mundo del fútbol.
 
+Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas del mundo del fútbol.
+
 - [**Soccer Match Event Dataset**](/Fútbol/Soccer%20match%20event%20dataset/)  
-  Datos detallados sobre eventos en partidos de fútbol (pases, tiros, goles, etc.), ideales para análisis de secuencias o tácticas.
+  Dataset de referencia recopilado por Pappalardo *et al.* (2019). Incluye eventos detallados como pases, tiros, goles, etc.
 
 - [**Data World**](/Fútbol/Data%20World/)  
   Conjuntos de datos extraídos de la plataforma [data.world](https://data.world), incluyendo estadísticas de ligas y torneos.
 
 - [**Otros**](/Fútbol/)  
-  Se podrá encontrar el link a todos los datos que encontremos que no pueden ser subidos al repositorio dentro de la carpeta.
+  Se podrán encontrar enlaces a otros recursos y datos no alojados directamente en el repositorio.
+
+  - [**Statsbomb Open Data**](https://github.com/statsbomb/open-data/tree/master)  
+    Colección abierta de datos de eventos de partidos de Statsbomb.
+
+  - [**FBREF LaLiga Stats**](https://fbref.com/en/comps/12/stats/La-Liga-Stats)  
+    Estadísticas detalladas de LaLiga. 
+
+  - [**Football-Data.co.uk**](https://www.football-data.co.uk/)  
+    Datos históricos y actuales de ligas europeas.
+
+  - [**football.db**](https://github.com/openfootball)  
+    Repositorio de datasets de fútbol en formato YAML.
+
+  - [**Kaggle**](https://www.kaggle.com/)  
+    Conjunto amplio de datasets. Algunos destacados:
+    - [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer/data)
+
 
 ### [🏀 Baloncesto](/Baloncesto/)
 
 Datos enfocados en la NBA y otros aspectos del baloncesto profesional.
 
-- [**fivethirtyeight**](/Baloncesto/fivethirtyeight/)  
-  Conjuntos de datos publicados por [FiveThirtyEight](https://fivethirtyeight.com), con métricas avanzadas, ratings y predicciones.
+Datos enfocados en la NBA y otros aspectos del baloncesto profesional.
+
+- [**FiveThirtyEight**](/Baloncesto/fivethirtyeight/)  
+  Colecciones de datos ligados a reportajes periodísticos, incluyendo métricas avanzadas, ratings y predicciones.
+
 - [**Otros**](/Baloncesto/)  
-  Se podrá encontrar el link a todos los datos que encontremos que no pueden ser subidos al repositorio dentro de la carpeta.
+  Incluye otros enlaces y recursos no alojados directamente en el repositorio.
+  - [**NBA Stats**](https://www.nba.com/stats/)  
+    Estadísticas oficiales de la NBA.
+
+  - [**Basketball Reference**](https://www.basketball-reference.com/)  
+    Gran base de datos histórica.
+
+  - [**College Basketball Reference**](https://www.sports-reference.com/cbb/)  
+    Datos históricos del baloncesto universitario estadounidense.
+
+  - [**College Basketball Data**](https://collegebasketballdata.com/)  
+    Datos universitarios accesibles mediante API.
+
+  - [**Kaggle**](https://www.kaggle.com/)  
+    Algunos datasets recomendados:
+    - [NBA database](https://www.kaggle.com/datasets/wyattowalsh/basketball)
+    - [NBA Players stats since 1950](https://www.kaggle.com/datasets/drgilermo/nba-players-stats)
+    - [College Basketball Dataset](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset)
+    - [Men's Professional Basketball](https://www.kaggle.com/datasets/open-source-sports/mens-professional-basketball)
 
 ### [🏈 Fútbol Americano](/Fútbol%20americano/)
 
-🕐 *Sección en desarrollo.* Próximamente se agregarán conjuntos de datos relacionados con la NFL, NCAA y otras ligas.
+Conjuntos de datos relacionados con la NFL, NCAA y otras ligas.
+
+- [**NFL FastR**](https://github.com/nflverse/nflfastR)  
+  Contiene datos de jugadas desde 1999.
+
+- [**Pro Football Reference**](https://www.pro-football-reference.com/)  
+  Base de datos extensa. Puede consultarse con [sportsreference](https://pypi.org/project/sportsreference/).
+
+- [**College Football Data**](https://collegefootballdata.com/)  
+  Datos accesibles mediante API sobre fútbol americano universitario.
+
+- [**Kaggle**](https://www.kaggle.com/)  
+  Datasets destacados:
+  - [Big Data Bowl (by NFL)](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/)
+  - [Detailed NFL Play-by-Play Data 2009–2018](https://www.kaggle.com/datasets/maxhorowitz/nflplaybyplay2009to2016)
+  - [NFL Football Player Stats](https://www.kaggle.com/datasets/zynicide/nfl-football-player-stats)
 
 ### [🎾 Tenis](/Tenis/)
 
