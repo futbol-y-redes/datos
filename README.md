@@ -10,8 +10,6 @@ Actualmente, el repositorio está dividido en las siguientes secciones:
 
 Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas del mundo del fútbol.
 
-Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas del mundo del fútbol.
-
 - [**Soccer Match Event Dataset**](/Fútbol/Soccer%20match%20event%20dataset/)  
   Dataset de referencia recopilado por Pappalardo *et al.* (2019). Incluye eventos detallados como pases, tiros, goles, etc.
 
@@ -39,8 +37,6 @@ Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas d
 
 
 ### [🏀 Baloncesto](/Baloncesto/)
-
-Datos enfocados en la NBA y otros aspectos del baloncesto profesional.
 
 Datos enfocados en la NBA y otros aspectos del baloncesto profesional.
 
