@@ -9,9 +9,9 @@ En este repositorio encontrarás una recopilación de datos de fútbol liberados
 
 - [**Statsbomb Open Data**](https://github.com/statsbomb/open-data/tree/master).
 
-- [**FBREF LaLiga Stats**](https://fbref.com/en/comps/12/stats/La-Liga-Stats). Para descargar los datos se puede usar un scraper, como la librería [soccerdata](https://soccerdata.readthedocs.io/en/latest/) de Python.
+- [**FBREF LaLiga Stats**](https://fbref.com/en/comps/12/stats/La-Liga-Stats). Para descargar los datos se puede usar un scraper, como la librería [`soccerdata`](https://soccerdata.readthedocs.io/en/latest/) de Python.
 
-- [**Football-Data.co.uk**](https://www.football-data.co.uk/). Datos disponibles en su página y también a través de scrapers como [soccerdata](https://soccerdata.readthedocs.io/en/latest/).
+- [**Football-Data.co.uk**](https://www.football-data.co.uk/). Datos disponibles en su página y también a través de scrapers como [`soccerdata`](https://soccerdata.readthedocs.io/en/latest/).
 
 - [**football.db**](https://github.com/openfootball). Datasets de fútbol de dominio público en formato YAML.
 

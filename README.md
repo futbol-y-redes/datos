@@ -85,8 +85,11 @@ Conjuntos de datos relacionados con la NFL, NCAA y otras ligas.
 
 ### [🎾 Tenis](/Tenis/)
 
-🕐 *Sección en desarrollo.* Se incluirán datos sobre partidos, rankings y estadísticas de jugadores ATP y WTA.
+Conjuntos de datos relacionados con la ATP, WTP y más.
 
+- [**GitHub de Jeff Sackmann**](https://github.com/JeffSackmann). La fuente más conocida y utilizada de datos en abierto de tenis, contiene datasets de la ATP, de la WTP, de Grand Slams y mucho más.
+
+ - [**Tennis-Data.co.uk**](http://www.tennis-data.co.uk/alldata.php). Datos disponibles de cada temporada de ATP en su página  en formato CSV. 
 ---
 
 ## 🧭 Objetivo

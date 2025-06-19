@@ -3,9 +3,9 @@ En este repositorio encontrarás una recopilación de datos de fútbol americano
 
 ## Índice
 
-- [**NFL FastR**](https://github.com/nflverse/nflfastR). Contiene datos de las jugadas desde 1999 hasta el presente. Con nflreadr::load_pbp() en R se puede acceder rápidamente.
+- [**NFL FastR**](https://github.com/nflverse/nflfastR). Contiene datos de las jugadas desde 1999 hasta el presente. Con `nflreadr::load_pbp()` en R se puede acceder rápidamente.
 
-- [**Pro Football Reference**](https://www.pro-football-reference.com/). Requiere web-scraping, se puede usar el wrapper de Python [sportsreference](https://pypi.org/project/sportsreference/).
+- [**Pro Football Reference**](https://www.pro-football-reference.com/). Requiere web-scraping, se puede usar el wrapper de Python [`sportsreference`](https://pypi.org/project/sportsreference/).
 
 - [**College Football Data**](https://collegefootballdata.com/). Contiene una gran cantidad de datos de fútbol americano y baloncesto a nivel universitario. Para descargar los datos se puede usar su API.
 
