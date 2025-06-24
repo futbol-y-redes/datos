@@ -90,6 +90,60 @@ Conjuntos de datos relacionados con la ATP, WTP y más.
 - [**GitHub de Jeff Sackmann**](https://github.com/JeffSackmann). La fuente más conocida y utilizada de datos en abierto de tenis, contiene datasets de la ATP, de la WTP, de Grand Slams y mucho más.
 
  - [**Tennis-Data.co.uk**](http://www.tennis-data.co.uk/alldata.php). Datos disponibles de cada temporada de ATP en su página  en formato CSV. 
+
+
+### [🏃 Atletismo](/Atletismo/)
+
+Conjuntos de datos relacionados con rendimiento atlético, resultados de competencias y biometría.
+
+- [**IAAF (World Athletics) Results**](https://worldathletics.org/results)  
+  Base de datos oficial de resultados de competencias internacionales de atletismo.
+
+- [**Tilastopaja**](https://www.tilastopaja.eu/) *(requiere suscripción)*  
+  Plataforma con estadísticas detalladas de atletas y eventos de pista y campo.
+
+- [**Kaggle**](https://www.kaggle.com/)  
+  - [Olympic History Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+
+### [🏊 Natación](/Natación/)
+
+Datos de competencias y rendimiento en natación profesional y olímpica.
+
+- [**Swimrankings.net**](https://www.swimrankings.net/)  
+  Rankings y resultados detallados de natación a nivel europeo e internacional.
+
+- [**FINA (World Aquatics)**](https://www.worldaquatics.com/)  
+  Información sobre récords, resultados y estadísticas oficiales.
+
+- [**Kaggle**](https://www.kaggle.com/)  
+  - [Olympic Swimming Data](https://www.kaggle.com/datasets/the-guardian/olympic-swimming-data)
+
+### [🏉 Rugby](/Rugby/)
+
+Recopilación de datos sobre rugby internacional y de clubes.
+
+- [**Rugby Pass Stats**](https://www.rugbypass.com/stats/)  
+  Estadísticas detalladas de partidos de rugby internacional.
+
+- [**ESPN Scrum**](http://www.espnscrum.com/)  
+  Base de datos histórica de rugby de selecciones y torneos.
+
+- [**Kaggle**](https://www.kaggle.com/)  
+  - [Rugby World Cup Match Data](https://www.kaggle.com/datasets/markconnelly/rugby-world-cup)
+
+### [🏸 Bádminton](/Bádminton/)
+
+Datos sobre torneos, rankings y rendimiento en bádminton internacional.
+
+- [**BWF Tournament Software**](https://bwf.tournamentsoftware.com/)  
+  Sitio oficial con resultados, rankings y calendario de torneos.
+
+- [**Badminton Statistics GitHub**](https://github.com/bwfprofile/bwfstats)  
+  Proyecto comunitario para el seguimiento de jugadores y partidos.
+
+- [**Kaggle**](https://www.kaggle.com/)  
+  - [Badminton Matches Dataset](https://www.kaggle.com/datasets/saurav9786/badminton-dataset)
+
 ---
 
 ## 🧭 Objetivo
