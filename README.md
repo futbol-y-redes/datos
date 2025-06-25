@@ -96,53 +96,56 @@ Conjuntos de datos relacionados con la ATP, WTP y más.
 
 Conjuntos de datos relacionados con rendimiento atlético, resultados de competencias y biometría.
 
-- [**IAAF (World Athletics) Results**](https://worldathletics.org/results)  
-  Base de datos oficial de resultados de competencias internacionales de atletismo.
-
 - [**Tilastopaja**](https://www.tilastopaja.eu/) *(requiere suscripción)*  
   Plataforma con estadísticas detalladas de atletas y eventos de pista y campo.
 
 - [**Kaggle**](https://www.kaggle.com/)  
-  - [Olympic History Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+  - [Olympic History Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
+  - [World Athletics - All-time rankings](https://www.kaggle.com/datasets/jeannicolasduval/world-athletics-all-time-rankings).
+  - [Paris 2024 Olympic Games Track & Field Results](https://www.kaggle.com/datasets/laurenainsleyhaines/paris-2024-olympic-games-track-and-field-results).
 
 ### [🏊 Natación](/Natación/)
 
 Datos de competencias y rendimiento en natación profesional y olímpica.
 
 - [**Swimrankings.net**](https://www.swimrankings.net/)  
-  Rankings y resultados detallados de natación a nivel europeo e internacional.
+  Rankings y resultados detallados de natación a nivel europeo e internacional. Permite la descarga en formato Excel.
 
-- [**FINA (World Aquatics)**](https://www.worldaquatics.com/)  
-  Información sobre récords, resultados y estadísticas oficiales.
+- [**World Aquatics**](https://www.worldaquatics.com/)  
+  Información sobre récords, resultados y estadísticas oficiales. Permite la consulta manual de resultados.
 
 - [**Kaggle**](https://www.kaggle.com/)  
-  - [Olympic Swimming Data](https://www.kaggle.com/datasets/the-guardian/olympic-swimming-data)
+  - [Olympic Swimming History (1912 to 2020)](https://www.kaggle.com/datasets/datasciencedonut/olympic-swimming-1912-to-2020)
 
 ### [🏉 Rugby](/Rugby/)
 
 Recopilación de datos sobre rugby internacional y de clubes.
 
-- [**Rugby Pass Stats**](https://www.rugbypass.com/stats/)  
-  Estadísticas detalladas de partidos de rugby internacional.
-
-- [**ESPN Scrum**](http://www.espnscrum.com/)  
+- [**ESPN**](https://www.espn.co.uk/rugby/)  
   Base de datos histórica de rugby de selecciones y torneos.
 
+- [**all.rugby**](https://all.rugby/)
+  Amplia recopilación de resultados de varias competiciones, de clubs y de jugadores. Permite la consulta manual.
+  
+- [**Rugby Database**](https://www.rugbydatabase.co.nz/index.php)
+  Proyecto neozelandés en curso para recopilar resultados del rugby neozelandés. 
+
 - [**Kaggle**](https://www.kaggle.com/)  
-  - [Rugby World Cup Match Data](https://www.kaggle.com/datasets/markconnelly/rugby-world-cup)
+  - [International Rugby Union results from 1871-2024](https://www.kaggle.com/datasets/lylebegbie/international-rugby-union-results-from-18712022)
 
 ### [🏸 Bádminton](/Bádminton/)
 
 Datos sobre torneos, rankings y rendimiento en bádminton internacional.
 
-- [**BWF Tournament Software**](https://bwf.tournamentsoftware.com/)  
-  Sitio oficial con resultados, rankings y calendario de torneos.
+- [**Badminton Stats**](https://www.badmintonstatistics.net/Index)  
+  Incluye resultados, rankings, jugadores y más. Se puede consultar gratuitamente, pero no tiene opción de descarga.
 
-- [**Badminton Statistics GitHub**](https://github.com/bwfprofile/bwfstats)  
-  Proyecto comunitario para el seguimiento de jugadores y partidos.
+- [**BWF**](https://bwfworldtour.bwfbadminton.com/)
+  Contiene algunas estadísticas, pero no a libre disposición.
 
 - [**Kaggle**](https://www.kaggle.com/)  
-  - [Badminton Matches Dataset](https://www.kaggle.com/datasets/saurav9786/badminton-dataset)
+  - [Badminton BWF World Tour](https://www.kaggle.com/datasets/sanderp/badminton-bwf-world-tour).
+  - [Badminton Game Data (BWF Super Series 2015-2017)](https://www.kaggle.com/datasets/canggih/badminton-game-data-bwf-super-series-20152017).
 
 ---
 

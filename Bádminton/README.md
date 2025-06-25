@@ -1,13 +1,15 @@
 # Bádminton
-En este repositorio encontrarás una recopilación de datos de bádminton liberados al público. Aquí debajo puedes encontrar su link.
+En este repositorio encontrarás una recopilación de datos de bádminton. Aquí debajo puedes encontrar su link.
 
 ## Índice
 
-- [**BWF Tournament Software**](https://bwf.tournamentsoftware.com/)  
-  Sitio oficial con resultados, rankings y calendario de torneos.
+- [**Badminton Stats**](https://www.badmintonstatistics.net/Index)  
+  Incluye resultados, rankings, jugadores y más. Se puede consultar gratuitamente, pero no tiene opción de descarga.
 
-- [**Badminton Statistics GitHub**](https://github.com/bwfprofile/bwfstats)  
-  Proyecto comunitario para el seguimiento de jugadores y partidos.
+- [**BWF**](https://bwfworldtour.bwfbadminton.com/)
+  Contiene algunas estadísticas, pero no a libre disposición. Anteriormente se han tratado de desarrollar [scrapers](https://github.com/oscarlaaaa/badminton-api) para estos datos.
 
 - [**Kaggle**](https://www.kaggle.com/)  
-  - [Badminton Matches Dataset](https://www.kaggle.com/datasets/saurav9786/badminton-dataset)
+  - [Badminton BWF World Tour](https://www.kaggle.com/datasets/sanderp/badminton-bwf-world-tour).
+  - [Badminton Game Data (BWF Super Series 2015-2017)](https://www.kaggle.com/datasets/canggih/badminton-game-data-bwf-super-series-20152017).
+
